@@ -119,11 +119,12 @@ doraemon/
 - `web-spritesheet.png`: transparent PNG; an 8 × 9 grid with 57 populated frames.
 - `previews/`: previews rendered from the final spritesheet; not required at runtime.
 
-## Credits and Artwork
+## Disclaimer
 
-- Repository structure and presentation inspired by [timerring/codex-pet-naiwa](https://github.com/timerring/codex-pet-naiwa).
-- Pixel sprites generated with OpenAI image tools, with eye, animation, and look-direction corrections.
-- Doraemon is a third-party character. This is an unofficial fan project.
+- This project is for personal learning, technical research, and non-commercial use only. It's meant to explore the creation, packaging, and installation process of Codex dynamic terminal pet materials. 
+- This is not an official project, nor does it have any commercial cooperation, authorization, or endorsement from the original creators, rights holders, or platforms.
+- The project is not for sale, does not charge any fees, is not used for commercial promotion, and does not claim copyright over the original character designs, emoticons, GIFs, or related derivative content. Anything generated in the repository is only for previewing Codex pet effects and personal use examples.
+- If any material, name, description, or derivative content in this project infringes on your legal rights, please let me know through an Issue or the repository's contact information. I will handle it as soon as possible, including but not limited to updating descriptions, replacing materials, or deleting relevant content.
 
 ## License
 
