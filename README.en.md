@@ -121,10 +121,12 @@ doraemon/
 
 ## Disclaimer
 
-- This project is for personal learning, technical research, and non-commercial use only. It's meant to explore the creation, packaging, and installation process of Codex dynamic terminal pet materials. 
-- This is not an official project, nor does it have any commercial cooperation, authorization, or endorsement from the original creators, rights holders, or platforms.
-- The project is not for sale, does not charge any fees, is not used for commercial promotion, and does not claim copyright over the original character designs, emoticons, GIFs, or related derivative content. Anything generated in the repository is only for previewing Codex pet effects and personal use examples.
-- If any material, name, description, or derivative content in this project infringes on your legal rights, please let me know through an Issue or the repository's contact information. I will handle it as soon as possible, including but not limited to updating descriptions, replacing materials, or deleting relevant content.
+This project is intended for personal learning, technical research, and non-commercial use. It explores the creation, packaging, and installation of animated desktop pet assets for Codex.
+
+- This is an unofficial fan project. It has not been authorized by the relevant character rights holders and has no commercial partnership or endorsement relationship with the original creators, rights holders, or associated platforms.
+- This project does not sell assets, charge fees, or engage in commercial promotion. The pixel sprites and animation previews in this repository were generated and prepared using AI tools solely as technical demonstrations and usage examples. This project does not claim ownership of the original Doraemon character design or related third-party content.
+- The repository's MIT License applies only to original documentation and metadata. It does not cover third-party character, artwork, or trademark rights. This statement does not grant permission to use the relevant assets.
+- If you believe any assets, names, descriptions, or derivative content in this repository affect your lawful rights, please contact me through a [GitHub Issue](https://github.com/ChenFu0604/codex-pet-doraemon/issues), identifying the relevant content and explaining your rights. I will review and address the matter promptly, including by updating descriptions, replacing assets, or removing the relevant content.
 
 ## License
 
